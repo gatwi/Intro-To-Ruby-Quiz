@@ -1,6 +1,15 @@
 # Ruby Methods
 ## Q1 Write any simple Ruby Program to illustrate the defining and calling of method
 
+def ruby_program()
+    puts "Hi and welcome to Moringa!"
+end 
+
+def mindbenders(var1 = "groupies", var2 = "Phase3")
+    puts "First parameter is #{var1}"
+    puts "First parameter is #{var2}"
+end
+
 ## Q2 You have a string, "I love espresso", return the length of the string
 
 ## Q3 Write a method where var1 and var2 are the parameters. Call the method. The statements to be executed are:
